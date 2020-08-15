@@ -55,5 +55,5 @@ The image: ![lynx](https://github.com/leorrose/Image-classification-ZSL/blob/mas
 The prediction: 
 
 
-<img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg"/>
+<img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg" width="250" hieght="250" alt="forest"/>
 
