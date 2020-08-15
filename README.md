@@ -38,22 +38,18 @@ In the console run:
 the 5 classification results will be printed to console.
 
 ### Examples of tests:
-1.
 
-<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg" width="250" hieght="250" alt="forest"/></p>
-<p align="center">insect, species, snake, flower, spider</p>
+<p lign="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg" width="400" hieght="400" alt="forest"/></p>
+<p align="center">Prediction: insect, species, snake, flower, spider</p>
 
-2.
-<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/car.jpg" width="250" hieght="250" alt="car"/></p>
-<p align="center">motorcycle, truck, bicycle, tractor, bike</p>
+<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/car.jpg" width="400" hieght="400" alt="car"/></p>
+<p align="center">Prediction: motorcycle, truck, bicycle, tractor, bike</p>
 
-3.
-<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/bycicle.jpg" width="250" hieght="250" alt="bycicle"/></p>
-<p align="center">motorcycle, bicycle, bike, motorbike, motorcycles</p>
+<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/bycicle.jpg" width="400" hieght="400" alt="bycicle"/></p>
+<p align="center">Prediction: motorcycle, bicycle, bike, motorbike, motorcycles</p>
 
-4.
-<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/lynx.jpg" width="250" hieght="250" alt="lynx"/></p>
-<p align="center">tiger, cat, car, vehicle, motorcycle</p>
+<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/lynx.jpg" width="400" hieght="400" alt="lynx"/></p>
+<p align="center">Prediction: tiger, cat, car, vehicle, motorcycle</p>
 
 
 
