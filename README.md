@@ -1,4 +1,4 @@
-# Image-classification-ZSL
+#Image-classification-ZSL
 
 ## Project Explanation
 A CNN model with zero shot learning based on cifar100 data set.
