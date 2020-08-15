@@ -68,7 +68,7 @@ motorcycle, bicycle, bike, motorbike, motorcycles
 
 **The prediction:**
 
-truck, car, vehicle, motorcycle, bicycle
+tiger, cat, car, vehicle, motorcycle
 
 
 
