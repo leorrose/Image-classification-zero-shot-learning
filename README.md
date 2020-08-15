@@ -38,9 +38,7 @@ In the console run:
 the 5 classification results will be printed to console.
 
 ### Examples of tests:
-The image: 
-
-<img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg" width="250" height="250", alt='forest'>
+The image: ![forest](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg | width=250 height=250)
 
 The prediction: 
 
