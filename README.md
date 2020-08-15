@@ -1,6 +1,6 @@
-#Image-classification-ZSL
+# Image-classification-ZSL
 
-## Project Explanation
+## Project Explanation:
 A CNN model with zero shot learning based on cifar100 data set.
 
 The target of this Project is to create a CNN model to classify images, even images not included in the training data set. 
@@ -25,8 +25,6 @@ This Project was created with <b> Python, tensorflow, keras, pandas, numpy and m
 7. That’s it, you are all set up to run.
 
 ## Project Run:
-
-### Project Run:
 
 #### Train:
 In the console run:
