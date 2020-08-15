@@ -38,7 +38,15 @@ In the console run:
 the 5 classification results will be printed to console.
 
 ### Examples of tests:
-The image: [lynx](https://www.google.com)
-The prediction:
+The image: [lynx](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg)
+The prediction: 
 
+The image: [lynx](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/car.jpg)
+The prediction: 
+
+The image: [lynx](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/bycicle.jpg)
+The prediction: 
+
+The image: [lynx](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/lynx.jpg)
+The prediction: 
 
