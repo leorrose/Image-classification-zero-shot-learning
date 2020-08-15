@@ -39,7 +39,7 @@ the 5 classification results will be printed to console.
 
 ### Examples of tests:
 
-<p lign="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg" width="400" hieght="400" alt="forest"/></p>
+<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg" width="400" hieght="400" alt="forest"/></p>
 <p align="center">Prediction: insect, species, snake, flower, spider</p>
 
 <p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/car.jpg" width="400" hieght="400" alt="car"/></p>
@@ -52,5 +52,7 @@ the 5 classification results will be printed to console.
 <p align="center">Prediction: tiger, cat, car, vehicle, motorcycle</p>
 
 
+Please let me know if you find bugs or something that needs to be fixed.
 
+Hope you enjoy.
 
