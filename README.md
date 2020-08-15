@@ -38,19 +38,19 @@ In the console run:
 the 5 classification results will be printed to console.
 
 ### Examples of tests:
-The image: ![lynx](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg =250x250)
+The image: <img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg" width="250" height="250", alt='forest'>
 
 The prediction: 
 
-The image: ![lynx](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/car.jpg =250x250)
+The image: <img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/car.jpg" width="250" height="250", alt='car'>
 
 The prediction: 
 
-The image: ![lynx](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/bycicle.jpg =250x250)
+The image: <img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/bycicle.jpg" width="250" height="250", alt='bycicle'>
 
 The prediction: 
 
-The image: ![lynx](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/lynx.jpg =250x250)
+The image: <img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/lynx.jpg" width="250" height="250", alt='lynx'>
 
 The prediction: 
 
