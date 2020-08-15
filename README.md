@@ -42,21 +42,15 @@ The image: ![forest](https://github.com/leorrose/Image-classification-ZSL/blob/m
 
 The prediction: 
 
-The image: 
-
-<img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/car.jpg" width="250" height="250", alt='car'>
+The image: ![car](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/car.jpg | width=250)
 
 The prediction: 
 
-The image: 
-
-<img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/bycicle.jpg" width="250" height="250", alt='bycicle'>
+The image: ![bycicle](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/bycicle.jpg | width=250)
 
 The prediction: 
 
-The image: 
-
-<img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/lynx.jpg" width="250" height="250", alt='lynx'>
+The image: ![lynx](https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/lynx.jpg | width=250)
 
 The prediction: 
 
