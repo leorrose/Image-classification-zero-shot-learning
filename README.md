@@ -25,21 +25,7 @@ This Project was created with <b> Python, tensorflow, keras, pandas, numpy and m
 
 ## Project Run:
 
-### Project Run (on Windows):
-#### Train:
-In the console run:
-1. cd src (go to src directory).
-2. python image_classification.py --task train --model 'model_saving_name.h5'
-the created model will be saved in src\model_saving_name.h5
-
-#### Test:
-In the console run:
-1. cd src (go to src directory).
-2. python image_classification.py --task test --image 'image_path_to_clasify' --model 'model_saving_name.h5'
-the 5 classification results will be printed to console.
-
-### Project Run (on Linux):
-
+### Project Run:
 #### Train:
 In the console run:
 1. cd src (go to src directory).
