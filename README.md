@@ -54,5 +54,5 @@ the 5 classification results will be printed to console.
 
 Please let me know if you find bugs or something that needs to be fixed.
 
-Hope you enjoy
+Hope you enjoy.
 
