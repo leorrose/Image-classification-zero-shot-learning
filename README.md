@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="https://img.shields.io/badge/-Collage%20Project-informational" />
+</p>
+
 # Image-classification-ZSL
 
 A CNN model with zero shot learning based on cifar100 data set.
