@@ -8,8 +8,8 @@ This Project was created with <b> Python(3.8.7), tensorflow, keras, pandas, nump
 
 ### Project Setup and Run:
 1. Clone this repository.
-2. Open cmd/shell/terminal and go to project folder: cd Image-classification-ZSL
-3. Install project dependencies: pip install -r requirements.txt
+2. Open cmd/shell/terminal and go to project folder: `cd Image-classification-ZSL`
+3. Install project dependencies: `pip install -r requirements.txt`
 4. Run the python script with input image: `python  ./src/image_classification.py python "path_to_img"`
 5. Enjoy the application. 
 
