@@ -1,6 +1,6 @@
 # Image-classification-ZSL
 
-A CNN model with zero shot learning based on cifar100 data set
+A CNN model with zero shot learning based on cifar100 data set.
 
 The target of this Project is to create a CNN model to classify images, even images not included in the training data set. 
 
