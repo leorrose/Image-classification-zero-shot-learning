@@ -6,14 +6,18 @@ The target of this Project is to create a CNN model to classify images, even ima
 
 This Project was created with <b> Python(3.8.7), tensorflow, keras, pandas, numpy and more liberais</b>. 
 
-### Project Setup and Run:
+## Project Research
+
+In order to understand the steps and what we did you are welcome to look at [the research jupyter notebook](https://github.com/leorrose/Image-classification-ZSL/blob/master/research_notebook.ipynb).
+
+## Project Setup and Run:
 1. Clone this repository.
 2. Open cmd/shell/terminal and go to project folder: `cd Image-classification-ZSL`
 3. Install project dependencies: `pip install -r requirements.txt`
 4. Run the python script with input image: `python  ./src/image_classification.py python "path_to_img"`
 5. Enjoy the application. 
 
-### Examples:
+## Examples:
 
 <p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg" width="400" hieght="400" alt="forest"/></p>
 <p align="center">Prediction: insect, species, snake, flower, spider</p>
@@ -32,7 +36,7 @@ Please let me know if you find bugs or something that needs to be fixed.
 
 Hope you enjoy.
 
-### Citations
+## Citations
 
 ```sh
 @inproceedings{mikolov2018advances,
