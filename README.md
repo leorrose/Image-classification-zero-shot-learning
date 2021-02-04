@@ -13,7 +13,7 @@ This Project was created with <b> Python(3.8.7), tensorflow, keras, pandas, nump
 4. Run the python script with input image: `python  ./src/image_classification.py python "path_to_img"`
 5. Enjoy the application. 
 
-### Examples of tests:
+### Examples:
 
 <p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg" width="400" hieght="400" alt="forest"/></p>
 <p align="center">Prediction: insect, species, snake, flower, spider</p>
