@@ -1,8 +1,8 @@
 # Image-classification-ZSL
 
-A CNN model with zero shot learning based on cifar100 data set.
+A deep neural network model with zero shot learning based on cifar100 data set.
 
-The target of this Project is to create a CNN model to classify images, even images not included in the training data set. 
+The target of this Project is to create a model to classify images, even images not included in the training data set. 
 
 This Project was created with <b> Python(3.8.7), tensorflow, keras, pandas, numpy and more liberais</b>. 
 
@@ -12,10 +12,10 @@ In order to understand the steps and what we did you are welcome to look at [the
 
 ## Project Setup and Run:
 1. Clone this repository.
-2. Open cmd/shell/terminal and go to project folder: `cd Image-classification-ZSL`
+2. Open cmd/shell/terminal and go to project folder: `cd Image-classification-zero-shot-learning`
 3. Install project dependencies: `pip install -r requirements.txt`
 4. Run the python script with input image: `python  ./src/image_classification.py python "path_to_img"`
-5. Enjoy the application. 
+5. Enjoy the application.
 
 ## Examples:
 
