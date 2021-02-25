@@ -1,4 +1,4 @@
-# Image-classification-ZSL
+# Image-classification-zero-shot-learning
 
 A deep neural network model with zero shot learning based on cifar100 data set.
 
@@ -19,17 +19,25 @@ In order to understand the steps and what we did you are welcome to look at [the
 
 ## Examples:
 
-<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/forest.jpg" width="400" hieght="400" alt="forest"/></p>
-<p align="center">Prediction: insect, species, snake, flower, spider</p>
+<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/chimpanzee.jpg" width="400" hieght="400" alt="chimpanzee"/></p>
+<p align="center">Prediction: </p>
 
-<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/car.jpg" width="400" hieght="400" alt="car"/></p>
-<p align="center">Prediction: motorcycle, truck, bicycle, tractor, bike</p>
+<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/computer_mouse.jpg" width="400" hieght="400" alt="computer mouse"/></p>
+<p align="center">Prediction: </p>
 
-<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/bycicle.jpg" width="400" hieght="400" alt="bycicle"/></p>
-<p align="center">Prediction: motorcycle, bicycle, bike, motorbike, motorcycles</p>
+<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/petunia.jpg" width="400" hieght="400" alt="petunia"/></p>
+<p align="center">Prediction: </p>
 
-<p align="center"><img src="https://github.com/leorrose/Image-classification-ZSL/blob/master/test%20images/lynx.jpg" width="400" hieght="400" alt="lynx"/></p>
-<p align="center">Prediction: tiger, cat, car, vehicle, motorcycle</p>
+<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/rhino.jpg" width="400" hieght="400" alt="rhino"/></p>
+<p align="center">Prediction: </p>
+
+<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/starfish.jpg" width="400" hieght="400" alt="starfish"/></p>
+<p align="center">Prediction: </p>
+
+
+<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/tansy.jpg" width="400" hieght="400" alt="tansy"/></p>
+<p align="center">Prediction: </p>
+
 
 
 Please let me know if you find bugs or something that needs to be fixed.
