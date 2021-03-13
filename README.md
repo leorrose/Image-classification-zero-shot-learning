@@ -1,6 +1,6 @@
 # Image-classification-zero-shot-learning
 
-A deep neural network model with zero shot learning based on cifar100 data set.
+A deep neural network model with zero shot learning based on cifar100 data set
 
 The target of this Project is to create a model to classify images, even images not included in the training data set. 
 
